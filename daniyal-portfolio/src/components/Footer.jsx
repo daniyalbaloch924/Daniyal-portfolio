@@ -23,7 +23,7 @@ const Footer = () => {
         <div className="flex flex-col sm:flex-row justify-between items-center">
           {/* Left side: Copyright */}
           <div className="text-[12px] sm:text-sm text-neutral-400 mb-4 sm:mb-0">
-            © {new Date().getFullYear()} Muhammad Ahad. All rights reserved.
+            © {new Date().getFullYear()} Muhammad Daniyal. All rights reserved.
           </div>
 
           {/* Right side: Social Icons */}

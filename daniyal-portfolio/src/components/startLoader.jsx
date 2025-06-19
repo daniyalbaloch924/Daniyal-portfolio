@@ -25,7 +25,7 @@ const Loader = () => {
         animate="visible"
         variants={textVariants}
       >
-        Welcome to Ahad’s Portfolio
+        Welcome to Daniyal's Portfolio
       </motion.h1>
     </motion.div>
   );
