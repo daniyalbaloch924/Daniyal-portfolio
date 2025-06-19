@@ -28,7 +28,7 @@ const Hero = () => {
         <h2 className="md:text-5xl sm:text-4xl text-2xl font-medium text-white text-center sm:mb-0 mb-1">
           Hi, I am{" "}
           <LinearGradient gradient={["to left", "#ff9720 ,#fc0865"]}>
-            Muhammad Ahad
+            Daniyal Baloch
           </LinearGradient>
         </h2>
 
