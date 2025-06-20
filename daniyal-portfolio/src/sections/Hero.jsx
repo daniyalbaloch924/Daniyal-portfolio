@@ -41,18 +41,14 @@ const Hero = () => {
 
         {/* Paragraph */}
         <p className="max-w-5xl text-center justify-center text-white xl:text-xl md:text-lg sm:text-base text-sm sm:px-0 px-2">
-          I&apos;m a passionate Frontend Developer specializing in building
-          modern, responsive, and user friendly web interfaces using JavaScript,
-          TypeScript and React. I focus on writing clean code, creating smooth
-          user experiences, and continuously improving my skills to deliver high
-          quality web applications.
+         I'm a dedicated Frontend Developer & UI/UX Designer skilled in JavaScript, TypeScript, React, and Next.js. I build responsive, user-friendly web apps and craft intuitive interfaces using Figma and Canva. Passionate about clean code, great design, and continuous growth.
         </p>
       </div>
 
       {/* Resume Download Button + Social Icons */}
       <div className="flex flex-col items-center gap-6 mt-6 sm:mt-6">
         <a
-          href="/Ahad-Resume-Frontend.pdf"
+          href="/Daniyal Resume.pdf"
           download
           className="bg-gradient-to-r from-[#fc0865] to-[#ff9720] text-white font-semibold px-6 py-3 rounded-full shadow-lg hover:scale-105 transition-transform duration-300 text-sm sm:text-base"
         >
@@ -73,13 +69,13 @@ const Hero = () => {
               animate={
                 waveTrigger
                   ? {
-                      y: [0, -10, 0],
-                      transition: {
-                        delay: index * 0.1,
-                        duration: 0.6,
-                        ease: "easeInOut",
-                      },
-                    }
+                    y: [0, -10, 0],
+                    transition: {
+                      delay: index * 0.1,
+                      duration: 0.6,
+                      ease: "easeInOut",
+                    },
+                  }
                   : {}
               }
             >

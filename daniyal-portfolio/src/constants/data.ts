@@ -399,9 +399,9 @@ export const workExperiences = [
 ];
 
 export const socialLinks = [
-  { url: "https://github.com/Ahad-Awan" },
-  { url: "mailto:muhammadahad3813@gmail.com" },
-  { url: "https://www.linkedin.com/in/muhammad-ahad1/" },
+  { url: "https://github.com/daniyalbaloch924" },
+  { url: "mailto:zikriabaloch8@gmail.com" },
+  { url: "https://www.linkedin.com/in/daniyal-baloch" },
 ];
 
 export const skills = [
