@@ -65,12 +65,12 @@ const Navbar = () => {
         }`}
       >
         <div className="mx-auto px-6 sm:px-8 md:px-10">
-          <div className="flex justify-between items-center py-5">
+          <div className="flex justify-between items-center ">
             <a href="#home" className="flex items-center">
               <img
-                src="logo.png"
+                src="/icons/D logo.png"
                 alt="Logo"
-                className="w-12 h-12 hover:scale-105 transition-transform"
+                className="w-[6rem] hover:scale-105 transition-transform"
               />
             </a>
 
