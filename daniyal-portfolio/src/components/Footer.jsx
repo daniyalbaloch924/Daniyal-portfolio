@@ -29,9 +29,9 @@ const Footer = () => {
           {/* Right side: Social Icons */}
           <div className="flex gap-5">
             {[
-              "https://github.com/Ahad-Awan",
-              "mailto:muhammadahad3813@gmail.com",
-              "https://www.linkedin.com/in/muhammad-ahad1/",
+              "https://github.com/daniyalbaloch924",
+              "mailto:zikriabaloch8@gmail.com",
+              "https:www.linkedin.com/in/daniyal-baloch",
             ].map((url, index) => (
               <motion.div
                 key={index}
