@@ -30,12 +30,8 @@ const techStack = [
   { name: "HTML", icon: SiHtml5, color: "text-orange-500" },
   { name: "Git", icon: SiGit, color: "text-orange-400" },
   { name: "GitHub", icon: SiGithub, color: "text-white" },
-  { name: "PostgreSQL", icon: SiPostgresql, color: "text-blue-500" },
-  { name: "MongoDB", icon: SiMongodb, color: "text-green-500" },
   { name: "VS Code", icon: SiVisualstudiocode, color: "text-blue-400" },
   { name: "Vercel", icon: SiVercel, color: "text-white" },
-  { name: "Netlify", icon: SiNetlify, color: "text-teal-400" },
-  { name: "Postman", icon: SiPostman, color: "text-orange-600" },
 ];
 
 const TechStack = () => {
